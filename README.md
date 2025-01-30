@@ -13,11 +13,6 @@ This project aims to predict solar power generation using a linear regression mo
 
 This project addresses the problem of forecasting solar power generation, which is crucial for grid management and optimizing energy distribution.  Accurate predictions enable better planning and utilization of solar energy resources.  The project employs a linear regression model due to its simplicity and interpretability, providing a baseline for further model development.
 
-## Dataset
-
-The dataset used in this project is `solarpowergeneration.csv` (or specify the actual name). It contains historical data of solar power generation, along with features such as (list the important features, e.g., temperature, solar irradiance, wind speed, etc.).  The dataset is assumed to be in CSV format.  (If the data source is publicly available, link to it here).
-
-
 ## Requirements
 
 - Python 3.x
@@ -31,4 +26,4 @@ The dataset used in this project is `solarpowergeneration.csv` (or specify the a
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/your-repository.git](https://github.com/your-username/your-repository.git)
+   git clone [https://github.com/RasKumarMagginoori/SolarPowerProject]
