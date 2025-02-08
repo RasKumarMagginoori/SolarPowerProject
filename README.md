@@ -1,6 +1,5 @@
-# SolarPowerProject
-Aicte Virtual Internship
 # Solar Power Generation Prediction using Linear Regression
+# Aicte Virtual Internship
 
 This project aims to predict solar power generation using a linear regression model.  It utilizes a dataset of solar power plant data, including various environmental factors and the corresponding power output.  The project includes data exploration, feature engineering, model training, and evaluation.
 
