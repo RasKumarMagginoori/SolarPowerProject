@@ -25,4 +25,4 @@ This project addresses the problem of forecasting solar power generation, which 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/RasKumarMagginoori/SolarPowerProject]
+   git clone :  https://github.com/RasKumarMagginoori/SolarPowerProject
